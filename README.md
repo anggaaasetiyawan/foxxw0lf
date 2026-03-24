@@ -3,7 +3,7 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=foxxw0lf&label=Profile%20views&color=0e75b6&style=flat" alt="foxxw0lf" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foxxw0lf" alt="foxxw0lf" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anggaasetiyawan" alt="anggaasetiyawan" /></a> 
 </p>
 
 ---
@@ -76,8 +76,8 @@
   </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=foxxw0lf&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="foxxw0lf" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=foxxw0lf&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="foxxw0lf" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anggaasetiyawan&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="anggaasetiyawan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anggaasetiyawan&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="anggaasetiyawan" />
 </p>
 
 <div align="center">
