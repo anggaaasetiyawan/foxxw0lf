@@ -2,8 +2,15 @@
 <h3 align="center">A passionate developer from Indonesia</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anggaaasetiyawan" alt="anggaaasetiyawan" /></a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600px" />
 </p>
+
+<!-- 
+Bagian Trophy di-comment sementara
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anggaaasetiyawan" alt="anggaaasetiyawan" /></a>
+</p> 
+-->
 
 ---
 
