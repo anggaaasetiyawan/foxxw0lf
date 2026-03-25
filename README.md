@@ -68,7 +68,7 @@
 ### 🛠️ Software & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,cursor,figma,ps,pr,lightroom,postman,grafana,git,github,githubcopilot,microsoftcopilot" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,ps,pr,postman,grafana,git,github,githubcopilot,microsoftcopilot" />
   </a>
 </p>
 
