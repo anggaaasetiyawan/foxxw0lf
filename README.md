@@ -112,6 +112,7 @@
   </a>
 </p>
 <p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anggaaasetiyawan&theme=default" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anggaaasetiyawan&show_icons=true&locale=en&theme=transparent&hide_border=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anggaaasetiyawan&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" />
 </p>
